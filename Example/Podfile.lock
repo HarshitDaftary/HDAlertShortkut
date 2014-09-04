@@ -1,0 +1,17 @@
+PODS:
+  - HDAlertShortkut (0.1.0)
+  - Kiwi (2.3.0)
+
+DEPENDENCIES:
+  - HDAlertShortkut (from `../`)
+  - Kiwi
+
+EXTERNAL SOURCES:
+  HDAlertShortkut:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HDAlertShortkut: 59b453cdb721c5957924259c2e69b8baccc5667d
+  Kiwi: 54bece5b35564d9b8e03c608d926f1a22fcfc589
+
+COCOAPODS: 0.33.1
