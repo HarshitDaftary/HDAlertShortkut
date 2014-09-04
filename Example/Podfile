@@ -1,0 +1,6 @@
+
+target 'HDAlertShortkut', :exclusive => true do
+  pod "HDAlertShortkut", :path => "../"
+
+  pod 'Kiwi'
+end
