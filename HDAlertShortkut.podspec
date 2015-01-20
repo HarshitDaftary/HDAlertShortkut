@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "HDAlertShortkut"
-  s.version          = "0.1.0"
+  s.version          = "1.0.1"
   s.summary          = "Use Alerts and Actionsheets using blocks."
   s.description      = "Use Alerts and Actionsheets using blocks. No need to implement delegates."
   s.homepage         = "https://github.com/HarshitDaftary/HDAlertShortkut"
@@ -28,6 +28,6 @@ Pod::Spec.new do |s|
   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
+    s.frameworks = 'UIKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 end

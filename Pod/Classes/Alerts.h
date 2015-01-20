@@ -1,5 +1,6 @@
 
 #import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 
 typedef void(^actionBlock)(NSInteger buttonIndex);
 typedef void(^inputAlertBlock)(NSInteger buttonIndex, NSString *strMessage);
